@@ -10,12 +10,12 @@ Using powerful tools in the Python ecosystem—including Pandas, Matplotlib, Sea
 
 This project is structured in the following way:
 
-- `data/`: Contains the ecommerce transactions dataset from 2011 to 2014. (Source: https://archive.ics.uci.edu/dataset/352/online+retail)
-- `notebooks/`: Includes interactive Jupyter Notebooks used for data cleaning, analysis, and visualization.
-- `reports/`: Stores generated reports and visualizations that summarize the insights uncovered during the analysis.
+- **`data/`**: Contains the ecommerce transactions dataset from 2011 to 2014. (Source: https://archive.ics.uci.edu/dataset/352/online+retail)
+- **`notebooks/`**: Includes interactive Jupyter Notebooks used for data cleaning, analysis, and visualization.
+- **`reports/`**: Stores generated reports and visualizations that summarize the insights uncovered during the analysis.
 
 ## How to run the project
 
-1. Clone the repository using `git clone https://github.com/Zafariqbal42/Data-Analysis-Ecommerce.git`
-2. Install the dependencies using `pip install -r requirements.txt`
-3. Run the notebooks
+1. Clone the repository using ``` bash git clone https://github.com/Zafariqbal42/Data-Analysis-Ecommerce.git```
+2. Install the dependencies using ``` bash pip install -r requirements.txt```
+3. Run the notebooks using jupyter notebook **`reports/`** folder.
