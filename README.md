@@ -16,6 +16,12 @@ This project is structured in the following way:
 
 ## How to run the project
 
-1. Clone the repository using ``` bash git clone https://github.com/Zafariqbal42/Data-Analysis-Ecommerce.git```
-2. Install the dependencies using ``` bash pip install -r requirements.txt```
+1. Clone the repository using 
+``` bash 
+git clone https://github.com/Zafariqbal42/Data-Analysis-Ecommerce.git
+```
+2. Install the dependencies using 
+``` bash 
+pip install -r requirements.txt
+```
 3. Run the notebooks using jupyter notebook **`reports/`** folder.
